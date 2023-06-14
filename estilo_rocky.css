@@ -1,21 +1,15 @@
 *{
     margin: 5px;
-    
 }
 
-
-.paragrafo{
+body{
+    background-color: white;
+    color:black;
+}
+   
+.paragrafo,li,th,td{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 } 
-
-li{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-th, td{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 
 
 
